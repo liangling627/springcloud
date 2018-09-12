@@ -19,6 +19,5 @@
         <module>greencloud-ribbon</module>
         <module>greencloud-zuul</module>
         <module>zipkin-server</module>
-        <module>zipkin-server</module>
     </modules>
 </project>
